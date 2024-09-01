@@ -4,7 +4,7 @@
 有益な情報になっていないですが、もし参照することが有れば幸いです。<br>
 <br>
 This repository leaves I get some information when I repaired "JUNK" NEC PC-TV454. May not be useful, but for a bit your information of NEC PC-TV454<br>
-*These documents are written in Japanese. So you may need to translate to your prefered language.
+*These documents are written in Japanese. So you may need to translate to your language.
 
 ## PC-TV454_assembly
 PC-TV454の修理で分解した後の組み立て方をまとめた資料です。<br>
