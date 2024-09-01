@@ -2,8 +2,10 @@
 ## このリポジトリについて/About this repository
 このリポジトリは、横一線になったPC-TV454を修理するために得た情報を備忘録として残します。<br>
 有益な情報になっていないですが、もし参照することが有れば幸いです。<br>
+またこれは、作者が気まぐれで更新するリポジトリです＼(^o^)／
 <br>
-This repository leaves I get some information when I repaired "JUNK" NEC PC-TV454. May not be useful, but for a bit your information of NEC PC-TV454<br>
+This repository leaves I get some information when I repaired "JUNK" NEC PC-TV454. May not be useful, but for a bit your information of NEC PC-TV454.<br>
+Also, this is the repository which will update whimsy:D
 *These documents are written in Japanese. So you may need to translate to your language.
 
 ## PC-TV454_assembly
